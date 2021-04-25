@@ -1,0 +1,6 @@
+export const ADD_TASK = "ADD_TASK";
+export const UPDATE_TASK = "UPDATE_TASK";
+export const REMOVE_TASK = "REMOVE_TASK";
+export const TASK_GET_SUCCESS = "TASK_GET_SUCCESS";
+export const TASK_UPDATE_LOADER = "TASK_UPDATE_LOADER";
+export const TASK_GET_LOADER = "TASK_GET_LOADER";
